@@ -1,2 +1,3 @@
 # DentonAccidents
- This Repository contains Jupiter Notebook code and results for Lab work of Coursework DSCI 5240 - Data Mining & Machine Learning for Business
+
+Denton-Accidents information (provided by professor for Lab work) is a CSV File with Accidents data. As part of  the  Labwork, Data Processing and Analysis techniques are applied on this data.
