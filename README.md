@@ -6,3 +6,10 @@ The data will be explored through four labs in this course, with *Lab 1* focusin
 Lab 1:
 - Replacing Null and incorrect values
 - Transforming data to One-Hot vectors / Mapping data to levels
+
+*Lab2* focuses on applying Clustering models on the data obtained after cleaning and transforming from previous lab.
+
+Lab 2:
+- Agglomerative Clustering
+- K-Means Clustering
+- Silhouette Score for both models
