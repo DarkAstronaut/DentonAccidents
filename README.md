@@ -21,3 +21,10 @@ Lab3:
 - Ordinary Least Squares(OLS) models
 - Linear Regression ( + SGDRegressor)
 - Polynomial Regression
+
+With *Lab4*, techniques for Classification and Prediction are applied and a Sample Accident is classified into Category based on the data
+
+Lab4:
+- Logistic Regression
+- Decision Tree Classification
+- Random Forest Algorithm
