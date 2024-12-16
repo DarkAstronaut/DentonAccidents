@@ -13,3 +13,11 @@ Lab 2:
 - Agglomerative Clustering
 - K-Means Clustering
 - Silhouette Score for both models
+
+*Lab3* involves Correlaton and Regression
+
+Lab3:
+- Pearson's Correlaton Coefficient
+- Ordinary Least Squares(OLS) models
+- Linear Regression ( + SGDRegressor)
+- Polynomial Regression
